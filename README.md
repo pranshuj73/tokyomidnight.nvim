@@ -1,4 +1,6 @@
-# 🏙 Tokyo Night
+# 🏙 Tokyo Midnight
+
+> Fork of folke's tokyonight theme because i wanted a darker palette
 
 A dark and light [Neovim](https://github.com/neovim/neovim) theme written in
 [Lua](https://www.lua.org) ported from the [Visual Studio Code
